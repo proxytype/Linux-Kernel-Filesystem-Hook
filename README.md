@@ -9,7 +9,7 @@ compile using makefile and load the module.
 insmod bin/drv2.ko path=/tmp
 ```
 
-## remove module
+## Remove module
 ```
 rmmod drv2
 ```
