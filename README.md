@@ -16,4 +16,4 @@ insmod bin/drv2.ko path=/tmp
 rmmod drv2
 ```
 
-Use demesg to see modules outputs.
+Use demesg to see module outputs.
